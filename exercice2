@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Titre de la page</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <H1> exercice2 </H1>
+  <p> paragraphe 1 pas grand chose a transcrire pour le moment </p>
+  <h2> exercice2 second volet </h2>
+  <p> paragraphe 2 pas grand chose de plus </p>
+  <h2> exercice 2 second volet partition 2 </h2>
+  <p> paragraphe 3 </p>
+</body>
+</html>
